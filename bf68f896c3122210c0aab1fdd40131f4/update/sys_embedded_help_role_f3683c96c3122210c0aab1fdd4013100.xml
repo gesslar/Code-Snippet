@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_159041_code_sn_0.admin" name="x_159041_code_sn_0.admin">7b68f896c3122210c0aab1fdd40131fd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-24 21:04:09</sys_created_on>
+        <sys_id>f3683c96c3122210c0aab1fdd4013100</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7b68f896c3122210c0aab1fdd40131fd</sys_name>
+        <sys_package display_value="Code Snippet" source="x_159041_code_sn_0">bf68f896c3122210c0aab1fdd40131f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Code Snippet">bf68f896c3122210c0aab1fdd40131f4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f3683c96c3122210c0aab1fdd4013100</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-24 21:04:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
